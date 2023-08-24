@@ -6,7 +6,9 @@ export default function Home() {
   return (
     <Layout className="justify-center items-center">
       <Typography variant="h2">NextJs starter kit</Typography>
-      <ArrowLink href="">Github Repository</ArrowLink>
+      <ArrowLink href="https://github.com/nathanaelbudijono/nextjs-starter-kit">
+        Github Repository
+      </ArrowLink>
     </Layout>
   );
 }
