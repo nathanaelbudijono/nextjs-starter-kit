@@ -10,7 +10,7 @@ const defaultMeta = {
   url: "https://nathanaelbudijono.vercel.app/",
   type: "website",
   robots: "follow, index",
-  image: "https://nathanaelbudijono.vercel.app/logo.png",
+  image: "/logo.png",
 };
 
 type SeoProps = {
