@@ -4,9 +4,9 @@ import { useRouter } from "next/router";
 
 const defaultMeta = {
   title: "Nathanael",
-  siteName: "Portfolio Website",
+  siteName: "NextJs + TailWindCSS Starter Kit",
   description:
-    "Welcome to my digital notebook where I share what I'm learning about shipping great products, becoming a better developer and growing a career in tech.",
+    "A starterkit for NextJs + TailWindCSS with multiple components and modules",
   url: "https://nathanaelbudijono.vercel.app/",
   type: "website",
   robots: "follow, index",

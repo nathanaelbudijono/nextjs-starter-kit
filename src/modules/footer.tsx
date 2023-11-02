@@ -9,11 +9,6 @@ export default function Footer() {
   return (
     <footer className="px-16 max-md:px-6 h-[20vh] text-center py-5 mt-5">
       <section className="max-w-4xl mx-auto flex justify-center flex-col items-center gap-1">
-        <div>
-          <Typography variant="small" className="text-xs">
-            © {new Date().getFullYear()} by Nathanael
-          </Typography>
-        </div>
         <div className="flex gap-2">
           <UnstyledLink href="mailto:nathanaelbudijono@gmail.com">
             <IconButton variant="ghost" icon={AiFillMail} />
